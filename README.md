@@ -18,4 +18,10 @@ dotnet ef database update
 
 Grep for the "test.example" in the solution and replace with your own domains or IP before running. 
 
+## Screenshots
+<img width="1442" height="716" alt="image" src="https://github.com/user-attachments/assets/7fbccc6e-b2c1-4c75-bd8e-a211f024dc01" />
+
+<img width="1437" height="875" alt="image" src="https://github.com/user-attachments/assets/32d5cff6-0aa1-44f4-b661-488039a12a2e" />
+
+
 
