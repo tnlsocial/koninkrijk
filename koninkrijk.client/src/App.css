@@ -1,0 +1,112 @@
+.table-cell {
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  height: 4rem;
+  width: 4rem;
+  box-sizing: border-box;
+}
+
+.table-custom { --bs-table-bg: transparent !important;
+  --bs-table-border-color: #dadaf6;
+  background-image: url("./assets/background.jpg");
+  border-color: #dadaf6; }
+
+.letter {
+  font-size: 3rem;
+  color: white;
+  border: #000 double 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+svg path#Overijssel{
+  fill: white;
+}
+svg path#Overijssel:hover{
+  fill:#e3bfdb; 
+}
+
+svg path#Gelderland{
+  fill: white;
+}
+svg path#Gelderland:hover{
+  fill:#bacef3; 
+}
+
+svg path#Noord-Holland{
+  fill: white;
+}
+svg path#Noord-Holland:hover{
+  fill:#f9e285; 
+}
+
+svg path#Limburg{
+  fill: white;
+}
+svg path#Limburg:hover{
+  fill:#a0d994; 
+}
+
+svg path#Flevoland{
+  fill: white;
+}
+svg path#Flevoland:hover{
+  fill:#dadaf6; 
+}
+
+svg path#Friesland{
+  fill: white;
+}
+svg path#Friesland:hover{
+  fill:#f6d7c2; 
+}
+
+svg path#Groningen{
+  fill: white;
+}
+svg path#Groningen:hover{
+  fill: #e7b985; 
+}
+
+svg path#Drenthe{
+  fill: white;
+}
+svg path#Drenthe:hover{
+  fill:#fea7b7; 
+}
+
+svg path#Zeeland{
+  fill: white;
+}
+svg path#Zeeland:hover{
+  fill:#a8e4e2; 
+}
+
+svg path#Zuid-Holland{
+  fill: white;
+}
+svg path#Zuid-Holland:hover{
+  fill:#c4d182; 
+}
+
+svg path#Noord-Brabant{
+  fill: white;
+}
+svg path#Noord-Brabant:hover{
+  fill:#cfbda9; 
+}
+
+svg path#Utrecht{
+  fill: white;
+}
+
+svg path#Utrecht:hover{
+  fill:#c4d182; 
+}
